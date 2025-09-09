@@ -1,3 +1,26 @@
-<html>
-  
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About the Moon</title>
+</head>
+<body style="font-family: Arial, sans-serif; text-align: center; background-color: #0b0c10; color: #fff;">
+
+  <h1>The Moon</h1>
+  <p>
+    The Moon is Earth's only natural satellite and the fifth largest moon in the solar system.
+    It influences tides, stabilizes Earth's rotation, and has inspired humans for centuries.
+  </p>
+
+  <!-- Moon Image -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/FullMoon2010.jpg" 
+       alt="The Moon" width="300" style="border-radius: 50%; box-shadow: 0 0 20px white;">
+
+  <p>
+    The Moon's surface is covered with craters, mountains, and flat plains called maria.
+    Humans first set foot on the Moon in 1969 during the Apollo 11 mission.
+  </p>
+
+</body>
 </html>
