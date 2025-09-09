@@ -1,1 +1,1 @@
- s collabration
+ S-collabration
